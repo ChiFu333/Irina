@@ -1,5 +1,8 @@
 # Irina
-Конец января 2024
+![Static Badge](https://img.shields.io/badge/Stack-Unity_%2B_%D0%A1%23-green?color=34C924)
+
+![Static Badge](https://img.shields.io/badge/January_2024-8A2BE2)
+
 
 Потратил около недели в попытках создать подобие Enter The Gungeon (далее ETG), но в какой-то момент разочаровался и бросил наработку.
 
