@@ -1,6 +1,5 @@
 # Irina
 ![Static Badge](https://img.shields.io/badge/Stack-Unity_%2B_%D0%A1%23-green?color=34C924)
-
 ![Static Badge](https://img.shields.io/badge/January_2024-8A2BE2)
 
 
